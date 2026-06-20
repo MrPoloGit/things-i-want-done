@@ -21,7 +21,7 @@
 - This is pretty cool, but Smash 64 autists should have their own version, so make something similar with matchmaking, replay files, and rollback netcode
 - I believe the decompilation and recompilation are completed, so you don't have to worry about assembly that much, so there is a decent starting point
 
-## Mod hl2
+## Mod HL2
 
 - Mod of half life 2, or hlf2 ddeath match that makes it like cs2, add in beta or unused guns, cross bow as sniper, smoke, flash, maybe moly?, decoy?, gernade, spore(summon 1 maybe 2 antlions) for rebels, and then man hack for combine side
 
@@ -174,7 +174,8 @@
 
 ## Melee 3v3 Mod
 
-- melee 6 player multiplayer, 3v3 game mode
+- melee 6 player multiplayer, 3v3 game mode without debug menu option and resolving any crashes
+- 3v3 on Kongo Jungle 64 - SSBM Debug Menu - https://www.youtube.com/watch?v=JoxbzxX9L_I
 
 ## Super Mario World COOP Mod
 
