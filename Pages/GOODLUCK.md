@@ -27,3 +27,13 @@
   - Get tConfig working
   - Get tAPI working
   - Get tModloader pre-Mojo working
+  - Get standalone mods like N terraria, Exxo Avalon, Avalon Remastered working
+
+## Plants Vs Zombies Modloader
+
+- mod loader for plants vs zombies
+
+## Get Juypter Notebook Displaying properly
+
+- This is only something that can be done by someone working at github
+- Good luck pushing this with the AI code focus 

@@ -58,6 +58,14 @@
 - Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
 - Brainfuck doesn't have support; add it
 
+## Language Extensions
+
+- **Stack:** Rust, JavaScript
+
+- Build an extension for a language that is missing from VS Code, NeoVim, and Zed
+- https://en.wikipedia.org/wiki/List_of_programming_languages
+- https://en.wikipedia.org/wiki/Hardware_description_language
+
 ## Terraria Mod Wiki Entries for tConfig mods
 
 - **Stack:** TODO
@@ -90,3 +98,26 @@
 - **Stack:** TODO
 
 - Set up a new wiki page on Terraria mod wiki
+
+## Export LLM chats to Markdown
+
+- **Stack:** JavaScript, Markdown, HTML
+
+- Web plugin to convert Claude, ChatGPT, and other LLM websites conversation to markdown or pdf
+
+## Commit history for law changes
+
+- **Stack:** Git, Markdown, Python
+
+- https://github.com/divegeek/uscode
+- ^ do this but with the commit history being changes to the law, and do this per country, per state, or county
+- PR message is always the date the change occured, when it goes into law, and who voted on this
+- Maybe have Python scraping to help do this?
+
+## Finding the best character to start out with (using data)
+
+- **Stack:** IDK
+
+- It would be nice if someone could do this for all different kinds of fighting games
+- Difficulty would be getting the data
+- I saw this done for melee -> https://www.youtube.com/watch?v=qtA-GU_j9wY

@@ -4,8 +4,8 @@ This repository is a collection of projects and things I would like done, but I 
 
 Here are the pages
 
-- [Easy](Pages/EASY)
-- [Medium](Pages/MEDIUM)
-- [Hard](Pages/HARD)
-- [Good Luck](Pages/GOODLUCK)
-- [Completed](Pages/COMPLETED)
+- [Easy](Pages/EASY.md)
+- [Medium](Pages/MEDIUM.md)
+- [Hard](Pages/HARD.md)
+- [Good Luck](Pages/GOODLUCK.md)
+- [Completed](Pages/COMPLETED.md)
