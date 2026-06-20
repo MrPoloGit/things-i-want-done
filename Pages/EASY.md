@@ -121,3 +121,54 @@
 - It would be nice if someone could do this for all different kinds of fighting games
 - Difficulty would be getting the data
 - I saw this done for melee -> https://www.youtube.com/watch?v=qtA-GU_j9wY
+
+## Hardware Engineer roadmap.sh
+
+- **Stack:** TypeScript, JavaScript, HTML, CSS
+
+- Add a roadmap for Hardware Engineer to [roadmap.sh](https://roadmap.sh/)
+- https://github.com/nilbuild/developer-roadmap
+- Include Verilog, System Verilog, TCL, Design for Testing, Open Sources chip tool chain, chip design, FPGAs, computer Architecture
+
+## Viable PVZ layouts
+
+- Calculate the number of possible configurations of PVZ lawns
+- Try to quantify the number of viable ones depending on zombies and spawn rate, don’t consider coffee beans, grave digger, jalapeño, cherry bomb, doom shroom only asleep
+- Script to auto place, then have script to detect round end, collect sun and replace, garlic and tall nut, then final wave collect all money, then reenter last stand game mode and repeat
+
+## SkyGrid new Versions
+
+- Update sky grid Minecraft map
+- Update herobrine’s mansion map for newer versions, do the same for multiple other mods
+
+## State Space Exploration of Puzzle Games
+
+- Adventures in State Space - https://www.youtube.com/watch?v=YGLNyHd2w10
+- do this for unblock me game?
+- maybe do this for 15 puzzle?
+- representing puzzles and their states, with N Dimensional state space
+
+## Frame Data Website like FightCore
+
+- https://fightcore.gg/
+- https://github.com/fightcore
+- https://fightcore.gg/characters/0/fwireframe/
+- add giga bowser
+- add male wireframe
+- master hand
+- Website like this for other fighting games like smash 64, brawl, Wii U, ultimate, 
+
+## Simplist World for Minecraft
+
+- The Simplest World That Can Farm Every Item - https://www.youtube.com/watch?v=bxX76HMgx98
+- do this mathematically for each version of Minecraft
+
+## Simplist World for Terraria
+
+- The Simplest World That Can Farm Every Item - https://www.youtube.com/watch?v=bxX76HMgx98
+- do this mathematically for each version of terraria
+- this for terraria and make sky block worlds for each version like this
+
+## Terraria Lava WOF arena
+
+- remove all block in underworld except starting island so its all lava and can be traveled with lava shark, fight wof that way

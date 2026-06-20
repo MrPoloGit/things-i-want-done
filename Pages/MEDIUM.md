@@ -185,3 +185,41 @@
 - **Stack:** JavaScript, Python
 
 - Stages and counter picks?
+
+## Reign of Nether End faction 
+
+- maybe have undermine as unite or have them as something that has the chance to spawn when using teleport(endermen will ignore orders and attack them), damage reduction for ranged attacks? Or just have a chance for ranged attacks to not do damage(effect is shown as purple particles), Units like obsidian tower(capable of being upgraded? Healing units, healing dragon, and damaging enemies can have targeting choose), end portal(main base), end tower, produces units like endermite(maybe?), enderman, angry enderman(more damage), tnt underman(unit spawns with tnt, and can grief), sulkers(more stationary unit, can only be moved along through teleports) , endship(has multiple shuckers that fire projectiles), and dragon(spawned from dragon hatchery building), protos styled faction with low unit number but powerful units, all enderman units can block grief which is a special ability they can use infrequently and can instantly destroy or maybe lowers functionality of opponents buildings, and all units can use teleports(short range is somewhere in a certain range, long must be a place previously visited? selecting multiple units for long range teleport chooses smallest amount of uncovered space) but has massive cool down, and all buildings aren’t so much built but rather teleported in? End crystal mine, can be deployed around base, but also carried out by endermen, they trigger an explosion when enemies get to close, they can be destroyed by projectiles, their destruction notifies the player and the position on the map.
+Librarian faction, possess enchantment styled gameplay with https://minecraft.fandom.com/wiki/Minecraft_Dungeons:Enchantment and very few actual units
+
+## School Inaccuracy
+
+- Many times ive seen this reddit post of a Website idea: you input the year you graduated high school and the website generates a list of outdated “facts” and concepts you were taught in school that have since been disproven
+
+## Data Analysis of Melee Players
+
+- **Stack:** Python
+
+- Full data analysis on players using Slippi data, and recording for positions, opening, approaches, habits, controllers, tournaments, dates, age, maybe a paper about melee gameplay and data?
+- Replay to video and video back to replay, maybe use recurrent convolutional neural network? Ai upscale, convolutions to help analyze video, use this to get more data for analysis, use it to rerelease footage of old games and tournament recordings
+- Analysis of players playing their character vs not playing their character
+- The Falco Dilemma - https://www.youtube.com/watch?v=3-Pin_UgLIc
+- Data analysis like this
+
+## Pokemon Network Relationship
+
+- **Stack:** Python
+
+- The Pokemon Type Advantage Network #SoME2 - https://www.youtube.com/watch?v=4TevYag6P-0
+- Expand the network relationship to mixed types and then even more to all Pokemon
+
+## Visual model for Handwriting to latex
+
+- You can use LLMs to do this but it would be nice to have a specialized model for converting handwriting to latex
+
+## Nethack Deep Reinforcement Learning
+
+- Nethack Learning Environment for deep reinforcement learning
+
+## Animelee/Melee HD textures for MKWII
+
+- Animelee/Melee HD textures but for Mario kart Wii?

@@ -124,4 +124,91 @@
 
 - https://smashboards.com/threads/melee-code-manager-v4-4-1-easily-add-mods-to-your-game.416437/
 
+## Mod for SF2/3
 
+- Make a mod that makes black background and water reflection like for Holosseum, visuals
+- dark edge fighting game
+
+## Dune Dynasty Multiplayer
+
+- Make multiplayer easier
+- https://dunelegacy.sourceforge.net/website/index.html
+- https://dune2themaker.fundynamic.com/
+- https://liquidream.itch.io/undune2
+- https://github.com/gameflorist/dunedynasty#multiplayer
+- https://github.com/gameflorist/dunedynasty
+- https://github.com/OpenDUNE/OpenDUNE
+
+## Verilator IEEE standard
+
+- adding support to verilator for deassign
+
+## ROM Speedrun View
+
+- Make shadow character so you can run comparing runs
+
+## Practice Rooms
+
+- Look at MVC2, SF4, training rooms and add something similar to older fighting games
+
+## Wii nunchuck as mouse
+
+- Wii nunchuck controller, with adapter
+- Wii nunchuck wireless
+
+## Melee Modding Wizard Update to Python 3
+
+- Its currently Python 2, update it to Python 3
+
+## Open Minesweeper
+
+- make app like that rust Rubik’s cub app
+- allow custom styling, custom board sizes, custom bomb numbers, custom board shapes, classic probability or pure logical solving of games
+- allow limiting of certain tile numbers, custom cell shapes, higher dimensional, analysis of games and more? recording games
+
+## VVVVVV mod
+
+- https://thelettervsixtim.es/index.html
+- https://github.com/TerryCavanagh/VVVVVV
+- Convert VVVVVVV to work on atari, NES, SNES?
+
+## Melee 3v3 Mod
+
+- melee 6 player multiplayer, 3v3 game mode
+
+## Super Mario World COOP Mod
+
+- Super marios bros Wii style smb new coop mode, need wide screen for co. op mode
+
+## Wii U Emulator gamepad support
+
+- use steam deck or android phone
+
+## Custom Wii nunchuck controller
+
+- Single control with USB C adapter
+- wireless connection to Wii remote with outside connecter, Wii nunchuck adapter to usb c
+
+## Decompilation/Recompilation of Games/Software
+
+- I have a repository with this tracking
+- Decompilation of super Mario bros 2 the lost levels
+
+## Mario Kart Wii All Items
+
+- Mario Kart Wii, mod to add all previous and future Mario kart items
+
+## Brawl Mod
+
+- Add as skin or character Fighting Polygon Team, Fighting Wire Frames, Fighting Alloy Team. 
+- Metal Mario
+- Custom character Tabuu
+
+## NES/SNES game neural networks
+
+- Would be nice to see more custom NN for these games
+
+## Online old racing games
+
+- make online super mario kart, Mario kart 64, Fzero, and fzero X
+- Other games from this video [AGR Part 2] - https://www.youtube.com/watch?v=RG8ljpIwsgc

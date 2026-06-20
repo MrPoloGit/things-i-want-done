@@ -37,3 +37,7 @@
 
 - This is only something that can be done by someone working at github
 - Good luck pushing this with the AI code focus 
+
+## Mario Kart Wii Double Dash
+
+- Mod to add double dash mode?
