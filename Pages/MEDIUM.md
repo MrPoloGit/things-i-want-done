@@ -204,6 +204,7 @@ Librarian faction, possess enchantment styled gameplay with https://minecraft.fa
 - Analysis of players playing their character vs not playing their character
 - The Falco Dilemma - https://www.youtube.com/watch?v=3-Pin_UgLIc
 - Data analysis like this
+- Why Smash Bros Doubles Creates the Most Broken Strategies - https://www.youtube.com/watch?v=hkcfmrqeaNs
 
 ## Pokemon Network Relationship
 

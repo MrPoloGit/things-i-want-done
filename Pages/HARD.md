@@ -213,3 +213,11 @@
 
 - make online super mario kart, Mario kart 64, Fzero, and fzero X
 - Other games from this video [AGR Part 2] - https://www.youtube.com/watch?v=RG8ljpIwsgc
+
+## Smash 64 Multiman smash skins
+
+- Multiman smash skins
+
+## Castle Crashers Skins Mod
+
+- Changes fellow knight characters in the background to use random skins downloaded from workshop
