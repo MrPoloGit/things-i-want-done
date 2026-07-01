@@ -224,3 +224,14 @@ Librarian faction, possess enchantment styled gameplay with https://minecraft.fa
 ## Animelee/Melee HD textures for MKWII
 
 - Animelee/Melee HD textures but for Mario kart Wii?
+
+## fighting game frame database (FGFD) website
+
+- there are multiple different websites that frame data of fighting games
+  - https://fightcore.gg/
+  - https://ultimateframedata.com/
+  - https://fullmeter.com/fat/
+  - https://wiki.supercombo.gg/
+  - https://www.dustloop.com/w/Main_Page
+- would be nice to have a single concentrated one, maybe update supercombo.gg
+- add discord bot for this
