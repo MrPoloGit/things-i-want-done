@@ -221,3 +221,115 @@
 ## Castle Crashers Skins Mod
 
 - Changes fellow knight characters in the background to use random skins downloaded from workshop
+
+## Recompilations to do
+
+- Channel F
+- RCA Studio II
+- Bally Astrocade
+- Atari 2600
+- APF-MP1000
+- Champion 2711
+- Interton VC 4000
+- Palladium Tele-Cassetten Game
+- 1292 Advanced Programmable Video System
+- Odyssey 2
+- APF Imagination Machine
+- Bandai Super Vision 8000
+- Intellivision
+- VTech CreatiVision
+- Cassette Vision
+- Arcadia 2001
+- SHG Black Point
+- ColecoVision
+- Atari 5200
+- Vectrex
+- Compact Vision TV Boy
+- Videopac+ G7400
+- My Vision
+- Pyuuta Jr.
+- SG-1000
+- Nintendo Entertainment System
+- PV-1000
+- Super Cassette Vision
+- Bridge Companion             
+- Video Art
+- Zemmix
+- Sega Mark III/Master System
+- Family Computer Disk System
+- Videosmarts
+- Atari 7800
+- Atari XEGS
+- Video Challenger
+- Action Max
+- View-Master Interactive Vision
+- Terebikko
+- VTech Socrates
+- Video Driver
+- GX4000
+- Commodore 64 Games System
+- PC Engine/TurboGrafx-16
+- Sega Genesis/Mega Drive
+- TurboGrafx-CD/CD-ROM²
+- PC Engine2/SuperGrafx
+- Neo Geo AES
+- Super NES/Super Famicom
+- CDTV
+- CD-i
+- Sega CD/Mega-CD
+- Picno
+- Memorex VIS
+- FM Towns Marty
+- Sega Pico
+- Pioneer LaserActive
+- Amiga CD32
+- 3DO
+- Atari Jaguar
+- CPS Changer
+- Neo Geo CD
+- Playdia
+- 32X
+- Sega Saturn
+- PlayStation
+- PC-FX
+- Pippin
+- Satellaview
+- Atari Jaguar CD
+- Casio Loopy
+- Super A'Can
+- Nintendo 64
+- Sega Dreamcast
+- Nintendo 64DD
+- Nuon
+- PlayStation 2
+- Nintendo GameCube
+- Xbox
+- DVD Kids
+- Xavix PORT
+- V.Smile
+- Advanced Pico Beena
+- V.Smile Baby Infant Development System
+- Game Wave Family Entertainment System
+- Xbox 360
+- V.Flash
+- HyperScan
+- PlayStation 3
+- Nintendo Wii
+- Sport Vii
+- EVO Smart Console
+- Zeebo
+- CT510
+- Nintendo Wii U
+- Ouya
+- PlayStation 4
+- Xbox One
+- Fuze Tomahawk F1
+- Nintendo Switch
+- Xbox Series X/S
+- PlayStation 5
+- Atari VCS
+- Polymega
+- Evercade VS
+- Analogue Duo
+- Nintendo Switch 2
+- Analogue 3D
