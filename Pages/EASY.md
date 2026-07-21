@@ -169,6 +169,3 @@
 - do this mathematically for each version of terraria
 - this for terraria and make sky block worlds for each version like this
 
-## Terraria Lava WOF arena
-
-- remove all block in underworld except starting island so its all lava and can be traveled with lava shark, fight wof that way
