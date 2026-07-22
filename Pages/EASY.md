@@ -30,13 +30,6 @@
 - Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
 - Bazel doesn't have support; add it
 
-## Perl extension for Zed IDE
-
-- **Stack:** Perl, Rust, JavaScript, Treesitter
-
-- Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
-- Perl doesn't have support; add it
-
 ## CUDA extension for Zed IDE
 
 - **Stack:** CUDA, Rust, JavaScript, Treesitter
