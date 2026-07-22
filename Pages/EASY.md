@@ -37,23 +37,9 @@
 - Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
 - CUDA doesn't have support; add it
 
-## JSFuck extension for Zed IDE
-
-- **Stack:** CUDA, Rust, JavaScript, Treesitter
-
-- Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
-- JSFuck doesn't have support; add it
-
-## Brainfuck extension for Zed IDE
-
-- **Stack:** CUDA, Rust, JavaScript, Treesitter
-
-- Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
-- Brainfuck doesn't have support; add it
-
 ## Language Extensions
 
-- **Stack:** Rust, JavaScript
+- **Stack:** Rust, JavaScript, C
 
 - Build an extension for a language that is missing from VS Code, NeoVim, and Zed
 - https://en.wikipedia.org/wiki/List_of_programming_languages
