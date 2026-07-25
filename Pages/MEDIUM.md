@@ -107,6 +107,8 @@
 
 ## Scarab infra, get working on mac, windows easily
 
+- https://github.com/litz-lab/scarab-infra
+
 ## FightCade Bots
 
 - **Stack:** Python, JavaScript
