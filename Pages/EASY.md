@@ -44,6 +44,7 @@
 - Build an extension for a language that is missing from VS Code, NeoVim, and Zed
 - https://en.wikipedia.org/wiki/List_of_programming_languages
 - https://en.wikipedia.org/wiki/Hardware_description_language
+- https://esolangs.org/wiki/Language_list
 
 ## Terraria Mod Wiki Entries for tConfig mods
 
