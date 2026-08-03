@@ -29,6 +29,7 @@
 
 - Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
 - Bazel doesn't have support; add it
+- https://github.com/bazel-contrib/vscode-bazel
 
 ## CUDA extension for Zed IDE
 
@@ -36,6 +37,8 @@
 
 - Zed is a newer IDE; therefore, it doesn't have as large or as developed a list of extensions
 - CUDA doesn't have support; add it
+- https://marketplace.visualstudio.com/items?itemName=NVIDIA.nsight-vscode-edition
+- https://github.com/NVIDIA/nsight-vscode-edition
 
 ## Language Extensions
 
