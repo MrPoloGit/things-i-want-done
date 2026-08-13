@@ -90,13 +90,6 @@
 - make a simple analytic circuit solver, start with resistance, capacitance, and inductor
 - Useful for simple homework assignments
 
-## LLM trained on kiwi farms
-
-- **Stack:** Python
-
-- I saw a video a long time ago about someone training an LLM on 4Chan text
-- I'm curious on how one trained on Kiwi farms would behave lol
-
 ## Melee Giga Bowser Based Browser
 
 - **Stack:** Dolphin, C, C++, ASM
@@ -104,10 +97,6 @@
 - Giga Bowser has some special effects for its effect and behaviors and invincibility
 - Implement these changes to browser, but don't alter damage
 - https://www.ssbwiki.com/Giga_Bowser_(SSBM)
-
-## Scarab infra, get working on mac, windows easily
-
-- https://github.com/litz-lab/scarab-infra
 
 ## FightCade Bots
 
