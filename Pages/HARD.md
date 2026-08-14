@@ -46,6 +46,13 @@
 - Nethack is a rougelike game with different versions and modability
 - Make a mod loader for lading in and managing multiple different mods
 
+## Rouge Modloader/Manager
+
+- **Stack:** C
+
+- Rouge is a rougelike game with different versions and modability
+- Make a mod loader for lading in and managing multiple different mods
+
 ## Modloader for SuperHot
 
 - Rainbow super hot, instead of the red, and have option to have the change rate also depends on your movement speed
