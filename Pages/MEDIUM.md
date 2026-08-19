@@ -226,3 +226,9 @@ Librarian faction, possess enchantment styled gameplay with https://minecraft.fa
   - https://www.dustloop.com/w/Main_Page
 - would be nice to have a single concentrated one, maybe update supercombo.gg
 - add discord bot for this
+
+## fastfetch support for additional devices
+
+- successor to neofetch
+- add detection of different accelerators like TPU/NPU(ex: Google Cloud TPU) and FPGAs(ex: Alveo U250)
+- maybe as a fork? or directly
