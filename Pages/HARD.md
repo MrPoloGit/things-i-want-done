@@ -39,12 +39,12 @@
 - Fork of TerraLauncher for UI start
 - Prism launcher but for terraria, includes terraria versions, tConfig versions, tAPI versions, tmodloader version, and standalone mods, have it replace the usual terraria launch, reorganize folders, so that every instants has its own folder in the launcher file system, look at gameluancheer, depot launcher too, and make the ultimate version
 
-## Nethack Modloader/Manager
+## Nethack Patch Manager
 
 - **Stack:** C
 
 - Nethack is a rougelike game with different versions and modability
-- Make a mod loader for lading in and managing multiple different mods
+- Make a tool with a TUI for loading in and managing multiple different patches, works over quilt
 
 ## Rouge Modloader/Manager
 
